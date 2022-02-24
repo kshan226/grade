@@ -1,3 +1,4 @@
+# read file
 score <- read.csv("score2.csv")
 
 plot(score$written, score$practical)
